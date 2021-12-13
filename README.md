@@ -1,0 +1,2 @@
+# first-repo
+class repository
